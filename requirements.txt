@@ -1,0 +1,14 @@
+xlrd==2.0.1 # To read excel files with pandas
+openpyxl==3.0.7 # To read exel files with pandas
+seaborn==0.11.1
+scikit-multilearn==0.2.0 # For multy label 
+tqdm==4.61.1
+requests==2.25.1
+html5lib==1.1
+beautifulsoup4==4.9.3
+pydot==1.4.2
+pymongo[srv]==4.1.1
+geopandas==0.10.2
+pycountry-convert==0.7.2
+folium==0.12.1
+psycopg2-binary==2.9.1
